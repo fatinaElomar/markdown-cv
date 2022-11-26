@@ -40,3 +40,4 @@ Training | Administrative work
 * Logo design
 * web design
 * excellent MS 
+* canva
